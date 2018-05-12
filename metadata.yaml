@@ -1,0 +1,32 @@
+_repo: The-Princess-Idleways--A-Fairy-Story_30955
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hays, Helen Ashe
+    alias: Hays, Mrs. W. J.
+    gutenberg_agent_id: '5926'
+    url: http://www.gutenberg.org/2009/agents/5926
+description: ''
+gutenberg_issued: '2010-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30955'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Elves -- Juvenile fiction'
+- !lcsh 'Fairies -- Juvenile fiction'
+- !lcsh 'Princesses -- Juvenile fiction'
+- !lcsh 'Fairy tales'
+- !lcsh 'Magic -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Wealth -- Juvenile fiction'
+title: 'The Princess Idleways: A Fairy Story'
+url: http://www.gutenberg.org/ebooks/30955
